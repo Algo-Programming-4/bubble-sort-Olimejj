@@ -1,2 +1,2 @@
-def bubble(list)
+def bubble(list):
   return sorted(list)
